@@ -39,8 +39,6 @@ weight = 1
     name = "Blog"
     url = "posts"
 
-
-
 [[languages.ja.menu.main]]
 name = "アーカイブ"
 url = "archives"
