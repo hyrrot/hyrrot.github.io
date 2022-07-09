@@ -1,5 +1,5 @@
 baseURL = "https://www.hyrrot.jp"
-title = "Hyrrot"
+title = "Pays des Merveilles d'Hyrrot"
 paginate = 5
 theme = "PaperMod"
 enableInlineShortcodes = true
@@ -65,7 +65,7 @@ weight = 20
 languageName = ":gb:"
 languageAltTitle = "English"
 weight = 1
-title = "Hyrrot"
+title = "Pays des Merveilles d'Hyrrot"
 
   [languages.en.taxonomies]
   category = "categories"
