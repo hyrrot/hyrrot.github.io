@@ -1,52 +1,195 @@
-baseurl      = "localhost"
-title        = "Hyrrot"
-languageCode = "ja-jp"
-theme        = "hello-friend-ng"
-paginate     = 10
+baseURL = "https://hyrrot.jp"
+title = "Hyrrot"
+paginate = 5
+theme = "PaperMod"
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+pygmentsUseClasses = true
+googleAnalytics = "G-39Z1DG1M4C"
+
+[minify]
+disableXML = true
+
+[languages.ja]
+languageName = ":jp:"
+languageAltTitle= "日本語"
+weight = 1
+
+  [languages.ja.taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+  [languages.ja.profileMode]
+  enabled = true
+  title = "Hyrrot"
+  subtitle = """
+  データエンジニアリング、DevOpsソリューションにおけるソフトウェアエンジニア
+  """
+
+    [[languages.ja.profileMode.buttons]]
+    name = "About"
+    url = "about"
+
+    [[languages.ja.profileMode.buttons]]
+    name = "Blog"
+    url = "posts"
+
+
+
+[[languages.ja.menu.main]]
+name = "アーカイブ"
+url = "archives"
+weight = 5
+
+[[languages.ja.menu.main]]
+name = "検索"
+url = "search/"
+weight = 10
+
+[[languages.ja.menu.main]]
+name = "タグ"
+url = "tags/"
+weight = 15
+
+[[languages.ja.menu.main]]
+name = "カテゴリ"
+url = "categories/"
+weight = 20
+
+[languages.en]
+languageName = ":gb:"
+languageAltTitle = "English"
+weight = 1
+title = "Hyrrot"
+
+  [languages.en.taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+  [languages.en.profileMode]
+  enabled = true
+  title = "Hyrrot"
+  subtitle = "Software Engineer in Data Engineering, and DevOps solutions"
+
+    [[languages.en.profileMode.buttons]]
+    name = "About"
+    url = "about"
+
+    [[languages.en.profileMode.buttons]]
+    name = "Blog"
+    url = "posts"
+
+[[languages.en.menu.main]]
+name = "Archive"
+url = "archives/"
+weight = 5
+
+[[languages.en.menu.main]]
+name = "Search"
+url = "search/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 15
+
+[[languages.en.menu.main]]
+name = "Categories"
+url = "categories/"
+weight = 20
+
+
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
+env = "production"
+description = "Hyrrot's website"
+author = "Hyrrot"
+defaultTheme = "auto"
+ShowShareButtons = true
+ShowReadingTime = true
+displayFullLangName = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowRssButtonInSectionTermList = true
+ShowToc = true
+images = [ "papermod-cover.png" ]
 
-  # Subtitle for home
-  homeSubtitle = "Hyrrot's Wonderland"
+  [params.profileMode]
+  enabled = true
+  title = "PaperMod"
+  imageUrl = "#"
+  imageTitle = "my image"
 
-  # Set disableReadOtherPosts to true in order to hide the links to other posts.
-  disableReadOtherPosts = false
+    [[params.profileMode.buttons]]
+    name = "Archives"
+    url = "archives"
 
-  # Enable sharing buttons, if you like
-  enableSharingButtons = true
+    [[params.profileMode.buttons]]
+    name = "Tags"
+    url = "tags"
 
-  # Metadata mostly used in document's head
-  description = "My new homepage or blog"
-  keywords = "homepage, blog"
-  images = [""]
+  [params.homeInfoParams]
+  Title = "Pays des Merveilles d'Hyrrot"
+  Content = """
+I am a skilled software developer with 10+ years of experience in leveraging technologies in “Big Data”, web applications frontend / backend, infrastructure and DevOps area. I also solve business problems in organizations by owning the entire process of delivering solutions for them.
 
-[taxonomies]
-    category = "blog"
-    tag      = "tags"
-    series   = "series"
+"""
 
-[languages]
-  [languages.en]
-    title = "Pays des Merveilles d'Hyrrot"
-    subtitle = "Hyrrot's Wonderland"
-    keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    readOtherPosts = "Read other posts"
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/hyrrot"
 
-    [languages.en.params.logo]
-      logoText = "hyrrot"
-      logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
 
-  # And you can even create generic menu
-  [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+  [[params.socialIcons]]
+  name = "Twitter"
+  url = "https://www.twitter.com/hyrrot/"
+
+  [[params.socialIcons]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/hirobumi-takahashi-7ba45538/"
+
+  [[params.socialIcons]]
+  name = "RsS"
+  url = "index.xml"
+
+  [params.editPost]
+  URL = "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+  Text = "Suggest Changes"
+  appendFilePath = true
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[privacy.vimeo]
+disabled = false
+simple = true
+
+[privacy.twitter]
+disabled = false
+enableDNT = true
+simple = true
+
+[privacy.instagram]
+disabled = false
+simple = true
+
+[privacy.youtube]
+disabled = false
+privacyEnhanced = true
+
+[services.instagram]
+disableInlineCSS = true
+
+[services.twitter]
+disableInlineCSS = true
