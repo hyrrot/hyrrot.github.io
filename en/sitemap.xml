@@ -2,89 +2,89 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hyrrot.jp/about/</loc>
+    <loc>https://www.hyrrot.jp/about/</loc>
     <lastmod>2022-07-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hyrrot.jp/ja/about/"
+                href="https://www.hyrrot.jp/ja/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hyrrot.jp/about/"
+                href="https://www.hyrrot.jp/about/"
                 />
   </url><url>
-    <loc>https://hyrrot.jp/archives/</loc>
+    <loc>https://www.hyrrot.jp/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hyrrot.jp/ja/archives/"
+                href="https://www.hyrrot.jp/ja/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hyrrot.jp/archives/"
+                href="https://www.hyrrot.jp/archives/"
                 />
   </url><url>
-    <loc>https://hyrrot.jp/categories/</loc>
+    <loc>https://www.hyrrot.jp/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hyrrot.jp/ja/categories/"
+                href="https://www.hyrrot.jp/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hyrrot.jp/categories/"
+                href="https://www.hyrrot.jp/categories/"
                 />
   </url><url>
-    <loc>https://hyrrot.jp/</loc>
+    <loc>https://www.hyrrot.jp/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hyrrot.jp/ja/"
+                href="https://www.hyrrot.jp/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hyrrot.jp/"
+                href="https://www.hyrrot.jp/"
                 />
   </url><url>
-    <loc>https://hyrrot.jp/search/</loc>
+    <loc>https://www.hyrrot.jp/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hyrrot.jp/ja/search/"
+                href="https://www.hyrrot.jp/ja/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hyrrot.jp/search/"
+                href="https://www.hyrrot.jp/search/"
                 />
   </url><url>
-    <loc>https://hyrrot.jp/series/</loc>
+    <loc>https://www.hyrrot.jp/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hyrrot.jp/ja/series/"
+                href="https://www.hyrrot.jp/ja/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hyrrot.jp/series/"
+                href="https://www.hyrrot.jp/series/"
                 />
   </url><url>
-    <loc>https://hyrrot.jp/tags/</loc>
+    <loc>https://www.hyrrot.jp/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hyrrot.jp/ja/tags/"
+                href="https://www.hyrrot.jp/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hyrrot.jp/tags/"
+                href="https://www.hyrrot.jp/tags/"
                 />
   </url>
 </urlset>
