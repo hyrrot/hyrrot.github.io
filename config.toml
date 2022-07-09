@@ -164,7 +164,7 @@ I am a skilled software developer with 10+ years of experience in leveraging tec
   url = "index.xml"
 
   [params.editPost]
-  URL = "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+  URL = "https://github.com/hyrrot/hyrrot.github.io/tree/gh-pages"
   Text = "Suggest Changes"
   appendFilePath = true
 
