@@ -12,7 +12,7 @@ ShowBreadCrumbs = false
 
 The website provides the ability to write down Hyrrot's thoughts on daily life and, when necessary, to record and publish Hyrrot's open-source artifacts.
 
-I will make every effort to provide articles in both Japanese/English, but for various reasons, there may be times when we only have articles in one of the languages. Thanks for your understanding.
+I will make every effort to provide articles in both Japanese/English, but for various reasons, some articles will be available in only one of the languages. Thanks for your understanding.
 
 ### About Hyrrot
 
