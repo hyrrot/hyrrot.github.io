@@ -2,6 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.hyrrot.jp/tags/blog/</loc>
+    <lastmod>2022-07-11T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.hyrrot.jp/ja/tags/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.hyrrot.jp/tags/blog/"
+                />
+  </url><url>
+    <loc>https://www.hyrrot.jp/</loc>
+    <lastmod>2022-07-11T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.hyrrot.jp/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.hyrrot.jp/"
+                />
+  </url><url>
+    <loc>https://www.hyrrot.jp/posts/</loc>
+    <lastmod>2022-07-11T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.hyrrot.jp/ja/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.hyrrot.jp/posts/"
+                />
+  </url><url>
+    <loc>https://www.hyrrot.jp/posts/resigned-rakuten-group/</loc>
+    <lastmod>2022-07-11T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.hyrrot.jp/ja/posts/resigned-rakuten-group/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.hyrrot.jp/posts/resigned-rakuten-group/"
+                />
+  </url><url>
+    <loc>https://www.hyrrot.jp/tags/</loc>
+    <lastmod>2022-07-11T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.hyrrot.jp/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.hyrrot.jp/tags/"
+                />
+  </url><url>
     <loc>https://www.hyrrot.jp/about/</loc>
     <lastmod>2022-07-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -39,18 +104,6 @@
                 href="https://www.hyrrot.jp/categories/"
                 />
   </url><url>
-    <loc>https://www.hyrrot.jp/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.hyrrot.jp/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.hyrrot.jp/"
-                />
-  </url><url>
     <loc>https://www.hyrrot.jp/search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -73,18 +126,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.hyrrot.jp/series/"
-                />
-  </url><url>
-    <loc>https://www.hyrrot.jp/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.hyrrot.jp/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.hyrrot.jp/tags/"
                 />
   </url>
 </urlset>

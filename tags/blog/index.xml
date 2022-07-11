@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Pays des Merveilles d&#39;Hyrrot</title>
-    <link>https://www.hyrrot.jp/</link>
-    <description>Recent content on Pays des Merveilles d&#39;Hyrrot</description>
+    <title>blog on Pays des Merveilles d&#39;Hyrrot</title>
+    <link>https://www.hyrrot.jp/tags/blog/</link>
+    <description>Recent content in blog on Pays des Merveilles d&#39;Hyrrot</description>
     <image>
       <url>https://www.hyrrot.jp/papermod-cover.png</url>
       <link>https://www.hyrrot.jp/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Jul 2022 00:00:00 +0900</lastBuildDate><atom:link href="https://www.hyrrot.jp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Jul 2022 00:00:00 +0900</lastBuildDate><atom:link href="https://www.hyrrot.jp/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resigned Rakuten Group</title>
       <link>https://www.hyrrot.jp/posts/resigned-rakuten-group/</link>
@@ -19,17 +19,6 @@
       <description>I had retired in April 2022 from Rakuten Group, Inc. where I had joined as a new graduate in 2011. (At the time of joining the company, it was Rakuten, Inc. The company will be simply referred to as &amp;ldquo;Rakuten&amp;rdquo; hereafter.)
 I had been working for the same company for more than 10 years. In fact, I have already been working for the next company. I decided to share my thoughts here mainly for the following reasons:</description>
     </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://www.hyrrot.jp/about/</link>
-      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.hyrrot.jp/about/</guid>
-      <description>Provides information about this Web site and its administrator.</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
