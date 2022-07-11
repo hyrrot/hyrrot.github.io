@@ -158,6 +158,10 @@ I am a skilled software developer with 10+ years of experience in leveraging tec
   url = "https://www.linkedin.com/in/hirobumi-takahashi-7ba45538/"
 
   [[params.socialIcons]]
+  name = "YouTube"
+  url = "https://www.youtube.com/channel/UCJHSKslmbic8IGMMp9F3FGA"
+
+  [[params.socialIcons]]
   name = "RsS"
   url = "index.xml"
 
