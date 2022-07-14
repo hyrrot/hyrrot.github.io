@@ -6,6 +6,7 @@ toc: false
 images:
 tags:
   - blog
+  - resignation
 ---
 I had retired in April 2022 from Rakuten Group, Inc. where I had joined as a new graduate in 2011. (At the time of joining the company, it was Rakuten, Inc. The company will be simply referred to as "Rakuten" hereafter.)
 
