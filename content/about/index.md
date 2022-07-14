@@ -14,6 +14,9 @@ The title of this website, "Pays des Merveilles d'Hyrrot" is French and translat
 
 Hyrrot will write down what he thinks about in his daily life and, if necessary, record and publish Hyrrot's open source artifacts. He also wants to find some interesting technology to try out and record, and in that respect the web site is, as the title suggests, a "wonderland".
 
+I will make every effort to provide articles in both Japanese/English, but for various reasons, some articles will be served in only one of the languages. I appreciate for your understanding.
+
+
 ### About Hyrrot
 
 My name is Hirobumi Takahashi (髙橋宏文), aka Hyrrot, born in 1986.
