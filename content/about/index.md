@@ -10,9 +10,9 @@ ShowBreadCrumbs = false
 
 ### About this web site
 
-The website provides the ability to write down Hyrrot's thoughts on daily life and, when necessary, to record and publish Hyrrot's open-source artifacts.
+The title of this website, "Pays des Merveilles d'Hyrrot" is French and translates to "Hyrrot's Wonderland" in English.
 
-I will try to provide articles in both Japanese/English, but for various reasons, some articles will be available in only one of the languages. Thanks for your understanding.
+Hyrrot writes down his thoughts in his daily life and, when necessary, records and publishes Hyrrot's open-source artifacts. He also wants to find and try out some interesting technology, and in that respect, it is a "wonderland" as the title suggests.
 
 ### About Hyrrot
 
