@@ -16,7 +16,6 @@ Hyrrot will write down what he thinks about in his daily life and, if necessary,
 
 I will make every effort to provide articles in both Japanese/English, but for various reasons, some articles will be served in only one of the languages. I appreciate for your understanding.
 
-
 ### About Hyrrot
 
 My name is Hirobumi Takahashi (髙橋宏文), aka Hyrrot, born in 1986.

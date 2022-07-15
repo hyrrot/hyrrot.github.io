@@ -136,6 +136,9 @@ images = [ "papermod-cover.png" ]
     [[params.profileMode.buttons]]
     name = "Tags"
     url = "tags"
+  
+  [params.assets]
+  disableFingerprinting = true
 
   [params.homeInfoParams]
   Title = "Pays des Merveilles d'Hyrrot"
