@@ -1,6 +1,6 @@
 ---
 title: "Resigned Rakuten Group"
-summary: "I decided to summarize my experience when I resigned from Rakuten Group, Inc. in the form of a so-called resignation entry."
+summary: "I decided to summarize my experience when I resigned from Rakuten Group, Inc. in the form of a so-called resignation article."
 date: 2022-07-15T23:00:00+09:00
 draft: false
 toc: false
@@ -15,7 +15,7 @@ I had been working for the same company for more than 10 years. In fact, I have 
 
 * I have been so busy recently that I thought it would be good to have a chance to stop and reflect on my life for a while.
 * I had a feeling (no evicence though) that some might want to read these stories, although it doesn't seem like many.
-* I wanted to write a so-called "retirement entry" at least once in my life.
+* I wanted to write a so-called "resignation article" at least once in my life.
 * I set up a blog system based on Hugo and Github Pages, but I wanted something new to write and upload to it to see how the blog system's post management experience would be.
 
 
