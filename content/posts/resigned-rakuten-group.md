@@ -1,5 +1,6 @@
 ---
 title: "Resigned Rakuten Group"
+summary: "I decided to summarize my experience when I resigned from Rakuten Group, Inc. in the form of a so-called resignation entry."
 date: 2022-07-11T07:00:00+09:00
 draft: false
 toc: false
