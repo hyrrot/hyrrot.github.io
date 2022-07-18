@@ -4,6 +4,8 @@ summary: "楽天グループ株式会社を退職したときの体験を、い�
 date: 2022-07-15T23:00:00+09:00
 draft: false
 toc: false
+aliases:
+  - resigned-rakuten-group
 images:
 tags:
   - blog

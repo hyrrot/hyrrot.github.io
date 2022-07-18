@@ -4,6 +4,8 @@ summary: "I decided to summarize my experience when I resigned from Rakuten Grou
 date: 2022-07-15T23:00:00+09:00
 draft: false
 toc: false
+aliases:
+  - resigned-rakuten-group
 images:
 tags:
   - blog
