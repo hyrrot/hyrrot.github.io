@@ -24,18 +24,18 @@ weight = 1
   tag = "tags"
   series = "series"
 
-  [languages.ja.profileMode]
+  [languages.ja.params.profileMode]
   enabled = true
   title = "Hyrrot"
   subtitle = """
   データエンジニアリング、DevOpsソリューションにおけるソフトウェアエンジニア
   """
 
-    [[languages.ja.profileMode.buttons]]
+    [[languages.ja.params.profileMode.buttons]]
     name = "About"
     url = "about"
 
-    [[languages.ja.profileMode.buttons]]
+    [[languages.ja.params.profileMode.buttons]]
     name = "Blog"
     url = "posts"
 
@@ -70,16 +70,16 @@ title = "Pays des Merveilles d'Hyrrot"
   tag = "tags"
   series = "series"
 
-  [languages.en.profileMode]
+  [languages.en.params.profileMode]
   enabled = true
   title = "Hyrrot"
   subtitle = "Software Engineer in Data Engineering, and DevOps solutions"
 
-    [[languages.en.profileMode.buttons]]
+    [[languages.en.params.profileMode.buttons]]
     name = "About"
     url = "about"
 
-    [[languages.en.profileMode.buttons]]
+    [[languages.en.params.profileMode.buttons]]
     name = "Blog"
     url = "posts"
 
@@ -123,7 +123,7 @@ ShowRssButtonInSectionTermList = true
 ShowToc = true
 images = [ "papermod-cover.png" ]
 
-  [params.profileMode]
+  [language.en.params.profileMode]
   enabled = true
   title = "PaperMod"
   imageUrl = "#"
@@ -147,28 +147,28 @@ I am a skilled software developer with 10+ years of experience in leveraging tec
 
 """
 
-  [[params.socialIcons]]
+  [[language.en.params.socialIcons]]
   name = "github"
   url = "https://github.com/hyrrot"
 
 
-  [[params.socialIcons]]
+  [[language.en.params.socialIcons]]
   name = "Twitter"
   url = "https://www.twitter.com/hyrrot/"
 
-  [[params.socialIcons]]
+  [[language.en.params.socialIcons]]
   name = "LinkedIn"
   url = "https://www.linkedin.com/in/hirobumi-takahashi-7ba45538/"
 
-  [[params.socialIcons]]
+  [[language.en.params.socialIcons]]
   name = "YouTube"
   url = "https://www.youtube.com/channel/UCJHSKslmbic8IGMMp9F3FGA"
 
-  [[params.socialIcons]]
+  [[language.en.params.socialIcons]]
   name = "RsS"
   url = "index.xml"
 
-  [params.editPost]
+  [language.en.params.editPost]
   URL = "https://github.com/hyrrot/hyrrot.github.io/tree/main/content"
   Text = "Suggest Changes"
   appendFilePath = true
