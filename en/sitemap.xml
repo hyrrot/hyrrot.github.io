@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.hyrrot.jp/posts/20230728-ba8ab87e1f40936c792b2113058a32036066d6cf223c1d94012b1211e4c99fbe/</loc>
+    <lastmod>2023-07-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.hyrrot.jp/ja/posts/20230728-ba8ab87e1f40936c792b2113058a32036066d6cf223c1d94012b1211e4c99fbe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.hyrrot.jp/posts/20230728-ba8ab87e1f40936c792b2113058a32036066d6cf223c1d94012b1211e4c99fbe/"
+                />
+  </url><url>
     <loc>https://www.hyrrot.jp/tags/blog/</loc>
-    <lastmod>2022-07-15T23:00:00+09:00</lastmod>
+    <lastmod>2023-07-28T00:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -15,8 +28,21 @@
                 href="https://www.hyrrot.jp/tags/blog/"
                 />
   </url><url>
+    <loc>https://www.hyrrot.jp/tags/duolingo/</loc>
+    <lastmod>2023-07-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.hyrrot.jp/ja/tags/duolingo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.hyrrot.jp/tags/duolingo/"
+                />
+  </url><url>
     <loc>https://www.hyrrot.jp/</loc>
-    <lastmod>2022-07-15T23:00:00+09:00</lastmod>
+    <lastmod>2023-07-28T00:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -29,7 +55,7 @@
                 />
   </url><url>
     <loc>https://www.hyrrot.jp/posts/</loc>
-    <lastmod>2022-07-15T23:00:00+09:00</lastmod>
+    <lastmod>2023-07-28T00:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -39,6 +65,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.hyrrot.jp/posts/"
+                />
+  </url><url>
+    <loc>https://www.hyrrot.jp/tags/</loc>
+    <lastmod>2023-07-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.hyrrot.jp/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.hyrrot.jp/tags/"
+                />
+  </url><url>
+    <loc>https://www.hyrrot.jp/tags/youtube/</loc>
+    <lastmod>2023-07-28T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://www.hyrrot.jp/ja/tags/youtube/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.hyrrot.jp/tags/youtube/"
                 />
   </url><url>
     <loc>https://www.hyrrot.jp/tags/resignation/</loc>
@@ -65,19 +117,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.hyrrot.jp/posts/20220715-8b282c8a5911ad1da4afe9674224df72ed5f80f7199473c4b678ebc940aa302b/"
-                />
-  </url><url>
-    <loc>https://www.hyrrot.jp/tags/</loc>
-    <lastmod>2022-07-15T23:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://www.hyrrot.jp/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.hyrrot.jp/tags/"
                 />
   </url><url>
     <loc>https://www.hyrrot.jp/about/</loc>

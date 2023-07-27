@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Pays des Merveilles d&#39;Hyrrot</title>
-    <link>https://www.hyrrot.jp/posts/</link>
-    <description>Recent content in Posts on Pays des Merveilles d&#39;Hyrrot</description>
+    <title>duolingo on Pays des Merveilles d&#39;Hyrrot</title>
+    <link>https://www.hyrrot.jp/tags/duolingo/</link>
+    <description>Recent content in duolingo on Pays des Merveilles d&#39;Hyrrot</description>
     <image>
       <url>https://www.hyrrot.jp/papermod-cover.png</url>
       <link>https://www.hyrrot.jp/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0900</lastBuildDate><atom:link href="https://www.hyrrot.jp/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0900</lastBuildDate><atom:link href="https://www.hyrrot.jp/tags/duolingo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Attempt to stream studying Chinese with Duolingo on YouTube Live</title>
       <link>https://www.hyrrot.jp/posts/20230728-ba8ab87e1f40936c792b2113058a32036066d6cf223c1d94012b1211e4c99fbe/</link>
@@ -17,15 +17,6 @@
       
       <guid>https://www.hyrrot.jp/posts/20230728-ba8ab87e1f40936c792b2113058a32036066d6cf223c1d94012b1211e4c99fbe/</guid>
       <description>Attempt to stream studying Chinese with Duolingo on YouTube Live</description>
-    </item>
-    
-    <item>
-      <title>Resigned Rakuten Group</title>
-      <link>https://www.hyrrot.jp/posts/20220715-8b282c8a5911ad1da4afe9674224df72ed5f80f7199473c4b678ebc940aa302b/</link>
-      <pubDate>Fri, 15 Jul 2022 23:00:00 +0900</pubDate>
-      
-      <guid>https://www.hyrrot.jp/posts/20220715-8b282c8a5911ad1da4afe9674224df72ed5f80f7199473c4b678ebc940aa302b/</guid>
-      <description>I decided to summarize my experience when I resigned from Rakuten Group, Inc. in the form of a so-called resignation article.</description>
     </item>
     
   </channel>
